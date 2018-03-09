@@ -1,3 +1,5 @@
+
+For all command go to: https://git-scm.com/
 new file in master
 
 made some changes
